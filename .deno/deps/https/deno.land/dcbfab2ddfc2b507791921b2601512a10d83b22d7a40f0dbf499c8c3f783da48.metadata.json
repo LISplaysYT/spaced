@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "server": "deno/gcp-us-central1",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-cf-pop": "DEN52-C1",
+    "x-amz-replication-status": "COMPLETED",
+    "content-type": "application/typescript; charset=utf-8",
+    "etag": "\"2a3e3167b5449d5795b4f50cb66d815a\"",
+    "last-modified": "Mon, 16 Jan 2023 20:55:37 GMT",
+    "via": "http/2 edgeproxy-h",
+    "x-amz-cf-id": "q0MaUz7uU6-GiMw5FQZecnp9PdarOmtwVuOhvzbuu8AQgTwls7TJaQ==",
+    "date": "Tue, 17 Jan 2023 06:01:07 GMT",
+    "vary": "Accept-Encoding, Origin",
+    "age": "427261",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-length": "186498",
+    "x-amz-version-id": "c0AD1mBPd4hFpZQRHgFGHRTXnlPzdhyM",
+    "x-cache": "Hit from cloudfront"
+  },
+  "url": "https://deno.land/std@0.173.0/media_types/vendor/mime-db.v1.52.0.ts",
+  "now": {
+    "secs_since_epoch": 1674362527,
+    "nanos_since_epoch": 836521086
+  }
+}

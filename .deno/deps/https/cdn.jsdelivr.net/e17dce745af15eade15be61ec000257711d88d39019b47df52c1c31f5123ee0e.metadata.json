@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "cross-origin-resource-policy": "cross-origin",
+    "content-type": "application/javascript; charset=utf-8",
+    "x-jsd-version-type": "branch",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "x-jsd-version": "master",
+    "date": "Wed, 01 Feb 2023 14:04:55 GMT",
+    "cache-control": "public, max-age=604800, s-maxage=43200",
+    "accept-ranges": "bytes",
+    "access-control-expose-headers": "*",
+    "timing-allow-origin": "*",
+    "age": "0",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-fra-eddf8230033-FRA, cache-chi-kigq8000102-CHI",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"3cc-ZoLlALLx9tvL0R5sQUq3uINpRGA\"",
+    "vary": "Accept-Encoding",
+    "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400"
+  },
+  "url": "https://cdn.jsdelivr.net/gh/ProxyHaven/aero/config.js",
+  "now": {
+    "secs_since_epoch": 1675260295,
+    "nanos_since_epoch": 437885152
+  }
+}
